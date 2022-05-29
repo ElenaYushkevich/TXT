@@ -1,0 +1,8 @@
+skill1 Json
+skill2 JavaScript
+skill3 AndroidStudio
+skill4 SQL
+skill5 VPN
+skill6 HTTP
+skill7 GIT
+skill8 Postman
