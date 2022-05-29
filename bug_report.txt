@@ -1,1 +1,10 @@
-
+id 1
+Summary LoginDialog
+Preconditions Win10
+Steps to Reproduce
+Step1 Launch Login Dialog
+Step2 Valid Username field
+Step3 Valid Password
+Step4 Click login button
+Expected Result User successfully logged into the application
+Actual Result Fail
